@@ -10,3 +10,6 @@
 * DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems (WWW-21)[[Paper](https://dl.acm.org/doi/abs/10.1145/3442381.3450078)]
 * AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks (preprint-19) [[Paper](https://arxiv.org/pdf/1810.11921)]
 * Self-Normalizing Neural Networks (NeurIPS-17) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/5d44ee6f2c3f71b73125876103c8f6c4-Paper.pdf)]
+
+* DeepGBM: A Deep Learning Framework Distilled by GBDT for Online Prediction Tasks (KDD-19) [[Paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330858)]
+* TabNN: A universal neural network solution for tabular data (preprint-18) [[Paper](https://openreview.net/pdf?id=r1eJssCqY7)]
